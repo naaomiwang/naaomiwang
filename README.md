@@ -1,8 +1,8 @@
-👋 Hi, I’m @naaomiwang, a student in Singapore 
+👋 Hello! I am Naomi, currently a student in Singapore. 
 
-👀 I’m currently trying (and failing) to become better in ctfs and competitive programming 
+👀 Curretly trying to explore my interests in cybersecurity and programming. 
 
-🌱 I hope to work on more projects relating to data analytics and information security in the future :D  
+🌱 I hope to work on more projects relating to web development and information security in the future :) 
 
 <!---
 naaomiwang/naaomiwang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
